@@ -1,3 +1,6 @@
+本篇笔记主要记录在学习[https://github.com/datawhalechina/easy-vibe/blob/main/docs/zh-cn/stage-1/1.1-introduction-to-ai-ide/index.md ] 章节时的笔记输出和作业
+
+---
 ## 1 如何把模糊的需求变成能用的产品
  STEP1：需求的具体化
  
