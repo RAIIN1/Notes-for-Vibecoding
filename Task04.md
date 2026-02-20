@@ -133,7 +133,8 @@
 
 2. 原型截图
 
-(https://github.com/RAIIN1/Notes-for-Vibecoding/blob/main/%E6%88%AA%E5%B1%8F2026-02-20%2023.23.50.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8b285f85-b487-4129-8b8b-9e7dac947475" />
+
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/557b9fd8-7cda-457b-a380-bb233bfa78f5" />
 
