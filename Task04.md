@@ -135,6 +135,7 @@
 
 (https://github.com/RAIIN1/Notes-for-Vibecoding/blob/main/%E6%88%AA%E5%B1%8F2026-02-20%2023.23.50.png)
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/557b9fd8-7cda-457b-a380-bb233bfa78f5" />
 
 
 3. 思考：工作台里可以怎样嵌入“AI 写文案 / 生成配图 / 生成脚本”等能力
